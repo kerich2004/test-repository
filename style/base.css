@@ -1,0 +1,28 @@
+.container {
+    width: 800px;
+    margin: 40px auto;
+}
+.list-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 15px;
+}
+
+.section-contacts{
+    width: 30%;
+    margin-left: auto;
+}
+
+
+.block {
+    display: flex;
+    margin-bottom: 15px;
+    width: 500px;
+}
+
+.block-title {
+    flex: 1;
+}
+.block-text {
+    flex: 2;
+}
