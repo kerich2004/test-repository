@@ -2,7 +2,7 @@ body {
     width: 80%;
     max-width: 1000px;
     margin: 40px auto;
-    font-size: 14px;
+    font-size: 16px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -71,6 +71,9 @@ main li {
 }
 
 @media (min-width: 320px) and (max-width: 780px) {
+    body {
+        font-size: 12px;
+    }
     main ul {
         width: 90%;
     }
